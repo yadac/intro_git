@@ -1,4 +1,5 @@
 git の練習をしていきます.
 基本的なコマンドを学びます。
-・git add
-・git commit
+- git add
+- git commit
+- git remove
