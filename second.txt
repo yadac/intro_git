@@ -1,2 +1,3 @@
 second.
 second.
+git commit --amend.
